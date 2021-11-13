@@ -9,7 +9,7 @@
 Projeto realizado por estudantes da Universidade Federal do Agreste de Pernambuco (UFAPE), possui como seu principal objetivo a verificação e prática dos conteúdos ensinados nas aulas de Engenharia de Software, lecionada pelo professor [Rodrigo Andrade](https://github.com/rcaa).
 O projeto tem como seu cliente o próprio professor [Rodrigo Andrade](https://github.com/rcaa) e visa facilitar a organização de encomendas entregues a um condomínio residencial de grande porte.
 
-## Objetivo
+## Objetivos
 O usuário deve ser capaz de cadastrar, remover, editar e visualizar os moradores do condomínio. O sistema também deve poder cadastrar, remover,  editar e visualizar qualquer tipo de encomenda que seja entregue para qualquer morador.  Um funcionário do condomínio é responsável por receber as encomendas das transportadoras e entregar ao morador correto. Assim, esse funcionário deve poder se autenticar no sistema com os seus dados para usar o sistema.
 
 ## Tecnologias Utilizadas

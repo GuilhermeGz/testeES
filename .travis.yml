@@ -6,4 +6,11 @@ install:
   - node -v
   - npm i -g yarn
   - yarn
-  - bin/rails db:migrate RAILS_ENV=test
+script: 
+- bundle exec rake db:create:all 
+- bundle exec rake db:migrate RAILS_ENV=test 
+- bundle exec rails webpacker:compile 
+- ruby -S bundle exec cucumber
+
+services:
+- postgresql

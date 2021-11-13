@@ -6,3 +6,4 @@ install:
   - node -v
   - npm i -g yarn
   - yarn
+  - rails db:migrate

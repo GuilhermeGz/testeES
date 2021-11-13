@@ -6,7 +6,7 @@
 * [Weverton Cintra](https://github.com/WevertonCintra)
 
 ## Sobre o Projeto
-Projeto realizado por estudantes da Universidade Federal do Agreste de Pernambuco (UFAPE),possui como seu principal objetivo a verificação e prática dos conteúdos ensinados nas aulas de Engenharia de Software, lecionada pelo professor [Rodrigo Andrade](https://github.com/rcaa).
+Projeto realizado por estudantes da Universidade Federal do Agreste de Pernambuco (UFAPE), possui como seu principal objetivo a verificação e prática dos conteúdos ensinados nas aulas de Engenharia de Software, lecionada pelo professor [Rodrigo Andrade](https://github.com/rcaa).
 O projeto tem como seu cliente o próprio professor [Rodrigo Andrade](https://github.com/rcaa) e visa facilitar a organização de encomendas entregues a um condomínio residencial de grande porte.
 
 ## Objetivos
@@ -19,10 +19,10 @@ O usuário deve ser capaz de cadastrar, remover, editar e visualizar os moradore
 ### [Rails](https://rubyonrails.org/)
 *   Versão 6.1.4.1
 ### [Codacy](https://app.codacy.com/gh/UFAPE-ES/gerenciamentoES/dashboard)
-*   Página do sistema na plataforma
-### [Travis](https://app.travis-ci.com/github/GuilhermeGz/gerenciamentoES)
-* Página do sistema na plataforma
+*   Página do sistema na plataforma.
+### [Travis](https://app.travis-ci.com/github/UFAPE-ES/gerenciamentoES)
+* Página do sistema na plataforma.
 ### [Heroku](https://gerenciamento-es.herokuapp.com)
-* Página do sistema na plataforma
+* Página do sistema na plataforma.
 ## :construction: Status do Projeto
 Em andamento

@@ -12,7 +12,7 @@ O projeto tem como seu cliente o próprio professor [Rodrigo Andrade](https://gi
 ## Objetivos
 O usuário deve ser capaz de cadastrar, remover, editar e visualizar os moradores do condomínio. O sistema também deve poder cadastrar, remover,  editar e visualizar qualquer tipo de encomenda que seja entregue para qualquer morador.  Um funcionário do condomínio é responsável por receber as encomendas das transportadoras e entregar ao morador correto. Assim, esse funcionário deve poder se autenticar no sistema com os seus dados para usar o sistema.
 
-## Tecnologias Utilizada
+## Tecnologias Utilizadas
 
 ### [Ruby](https://www.ruby-lang.org/pt/)
 *   Versão 3.0.1
